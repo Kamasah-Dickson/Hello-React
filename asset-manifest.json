@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Kamasah-Dickson/Hello-React/static/css/main.be1ffcc6.css",
+    "main.js": "/Kamasah-Dickson/Hello-React/static/js/main.1b681bce.js",
+    "static/media/paul-green-gOHfFgwyDNM-unsplash.jpg": "/Kamasah-Dickson/Hello-React/static/media/paul-green-gOHfFgwyDNM-unsplash.dbbdcb033b998cd8458e.jpg",
+    "static/media/peter-vanosdall-uZVtAixV8c8-unsplash.jpg": "/Kamasah-Dickson/Hello-React/static/media/peter-vanosdall-uZVtAixV8c8-unsplash.7bac644f1bb596a00fb7.jpg",
+    "static/media/r-architecture-2gDwlIim3Uw-unsplash.jpg": "/Kamasah-Dickson/Hello-React/static/media/r-architecture-2gDwlIim3Uw-unsplash.cd4bf703c6ea8d833c39.jpg",
+    "static/media/jade-stephens-T-FSAK4Bv9c-unsplash.jpg": "/Kamasah-Dickson/Hello-React/static/media/jade-stephens-T-FSAK4Bv9c-unsplash.880ffb777ee085eea350.jpg",
+    "static/media/airbnb-2-logo-svgrepo-com.svg": "/Kamasah-Dickson/Hello-React/static/media/airbnb-2-logo-svgrepo-com.9e828fb01759a2177057c4603470d9bd.svg",
+    "static/media/airbnb-svgrepo-com.svg": "/Kamasah-Dickson/Hello-React/static/media/airbnb-svgrepo-com.ce20bb5144302a3a8082.svg",
+    "static/media/star-svgrepo-com (3).svg": "/Kamasah-Dickson/Hello-React/static/media/star-svgrepo-com (3).7c21883a9cd83db4d0cf.svg",
+    "static/media/star-svgrepo-com (4).svg": "/Kamasah-Dickson/Hello-React/static/media/star-svgrepo-com (4).da56886ded88cddfe267.svg",
+    "index.html": "/Kamasah-Dickson/Hello-React/index.html",
+    "main.be1ffcc6.css.map": "/Kamasah-Dickson/Hello-React/static/css/main.be1ffcc6.css.map",
+    "main.1b681bce.js.map": "/Kamasah-Dickson/Hello-React/static/js/main.1b681bce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be1ffcc6.css",
+    "static/js/main.1b681bce.js"
+  ]
+}
